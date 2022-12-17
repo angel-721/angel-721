@@ -1,4 +1,4 @@
-### Hello! 
+### Hello! 👋
 - I'm a thrid year Software Engineering student at Utah Tech University 
 - I have a strong interest in human computer interaction and data science! 
 
