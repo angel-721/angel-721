@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello! 
+- I'm a thrid year Software Engineering student at Utah Tech University 
+- I have a strong interest in human computer interaction and data science! 
+
+#### Reaching out to me: 
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/angel-velasquez-569102184/)
 
 <!--
 **angel-721/angel-721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
