@@ -3,6 +3,7 @@
 - I have a strong interest in human computer interaction and data science! 
 
 #### Reaching out to me: 
+[![email](./imgs/email.svg)](angelvelasquez2002@gmail.com)
 [![linkedin](./imgs/linkedin.svg)](https://www.linkedin.com/in/angel-velasquez-569102184/)
 
 <!--
