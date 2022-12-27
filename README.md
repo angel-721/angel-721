@@ -3,7 +3,7 @@
 - I have a strong interest in human computer interaction and data science! 
 
 ### Reaching out to me: 
-[![linkedin](./imgs/linkedin.svg)](https://www.linkedin.com/in/angel-velasquez-569102184/#gh-light-mode-only))
+[![linkedin](./imgs/linkedin.svg)](https://www.linkedin.com/in/angel-velasquez-569102184/#gh-light-mode-only)
 
 
 <!--
