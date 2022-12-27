@@ -1,9 +1,12 @@
 # Hello! 👋
+
 - I'm a thrid year Software Engineering student at Utah Tech University 
 - I have a strong interest in human computer interaction and data science! 
 
 ### Reaching out to me: 
-[![linkedin](./imgs/linkedin.svg)](https://www.linkedin.com/in/angel-velasquez-569102184/#gh-light-mode-only)
+
+[![linkedin](./imgs/linkedin-light.svg)](https://www.linkedin.com/in/angel-velasquez-569102184/#gh-light-mode-only)
+[![linkedin](./imgs/linkedin-dark.svg)](https://www.linkedin.com/in/angel-velasquez-569102184/#gh-dark-mode-only)
 
 
 <!--
