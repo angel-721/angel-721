@@ -3,11 +3,11 @@
 - I'm a thrid year Software Engineering student at Utah Tech University 
 - I have a strong interest in human computer interaction and data science!
 
-[![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=angel-721&count_private=true&include_all_commits=true&hide=stars&show_icons=true&theme=synthwave)](https://github.com/angel-721)&nbsp; &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angel-721&count_private=true&langs_count=10&hide_progress=true&theme=synthwave)](https://github.com/angel-721)
+[![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=angel-721&count_private=true&include_all_commits=true&hide=stars&show_icons=true&theme=omni)](https://github.com/angel-721)&nbsp; &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angel-721&count_private=true&langs_count=10&hide_progress=true&theme=omni)](https://github.com/angel-721)
 ---
 #### Some fun repos:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angel-721&repo=tweepy-media-bot&theme=dark)](https://github.com/angel-721/tweepy-media-bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angel-721&repo=tweepy-media-bot&theme=omni)](https://github.com/angel-721/tweepy-media-bot)
 
 ---
 ### Reaching out to me 📫: 
