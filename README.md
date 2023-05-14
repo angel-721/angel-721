@@ -1,6 +1,7 @@
 # Hello! 👋
 
 - I'm a rising 4th year Software Engineering student at Utah Tech University 
+- 🌱 I’m currently learning Unity VR and React JS!
 - I have a strong interest in human computer interaction and data science!
 
 [![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=angel-721&count_private=true&include_all_commits=true&hide=stars&show_icons=true&theme=omni)](https://github.com/angel-721)&nbsp; &nbsp;
