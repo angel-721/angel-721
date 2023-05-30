@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Unity VR and C#
 - I have a strong interest in human computer interaction and data science!
 
-[![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=angel-721&count_private=true&include_all_commits=true&hide=stars&show_icons=true&theme=omni)](https://github.com/angel-721)&nbsp; &nbsp;
+[![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=angel-721&count_private=true&hide=stars&show_icons=true&theme=omni)](https://github.com/angel-721)&nbsp; &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angel-721&count_private=true&langs_count=10&hide_progress=true&theme=omni)](https://github.com/angel-721)
 ---
 #### Some fun repos:
