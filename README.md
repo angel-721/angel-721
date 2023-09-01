@@ -1,8 +1,8 @@
 # Hello! 👋
 
-- I'm a rising 4th year Software Engineering student at Utah Tech University 
-- I currently develop virtual reality labs for Utah Tech Online
-- I have a strong interest in human computer interaction and data science!
+- I'm a 4th year Software Engineering student at Utah Tech University 
+- I currently develop virtual reality classroom experiences for Utah Tech Online
+- I have a strong interest in data science and analytics!
 - Don't be surprised if you see many repos with a martial arts theme!
 
 <!--[![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=angel-721&count_private=true&hide=stars&show_icons=true&theme=omni)](https://github.com/angel-721)&nbsp; &nbsp;-->
