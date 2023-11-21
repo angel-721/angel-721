@@ -16,7 +16,7 @@
 &nbsp;
 [![Readme Card](https://github-readme-stats-cbk1-git-master-angel-721.vercel.app/api/pin/?username=angel-721&repo=UFP&theme=omni)](https://github.com/angel-721/UFP)
 ---
-### Reaching Out to Me 📫: 
+### Other ways to find/reach me 📫: 
 [![linkedin](./imgs/linkedin-light.svg)](https://www.linkedin.com/in/angel-velasquez-569102184/#gh-light-mode-only)
 [![linkedin](./imgs/linkedin-dark.svg)](https://www.linkedin.com/in/angel-velasquez-569102184/#gh-dark-mode-only)
 [![gitlab](./imgs/gitlab.svg)](https://gitlab.com/angel-721)
