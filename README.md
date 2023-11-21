@@ -1,9 +1,11 @@
 # Hello! 👋
 
-- I'm a 4th year Software Engineering student at Utah Tech University 
+- I'm a 4th year Software Engineering student at Utah Tech University
+- My next step hopefully is graduate school
 - I currently develop virtual reality classroom experiences for Utah Tech Online
 - I have a strong interest in data science and game development
-- Don't be surprised if you see many repos with a martial arts theme!
+- Don't be surprised if you see many repos with a martial arts theme
+
 
 
 
