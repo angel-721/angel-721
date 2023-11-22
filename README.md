@@ -4,7 +4,8 @@
 - My next step hopefully is graduate school
 - I currently develop virtual reality classroom experiences for Utah Tech Online
 - I have a strong interest in data science and game development
-- Don't be surprised if you see many repos with a martial arts theme
+
+<!--- Don't be surprised if you see many repos with a martial arts theme-->
 
 
 
@@ -12,12 +13,13 @@
 <!--[![Angel's GitHub Stats](https://github-readme-stats-cbk1-git-master-angel-721.vercel.app/api?username=angel-721&count_private=false&hide=stars&show_icons=true&theme=omni)](https://github.com/angel-721)&nbsp; &nbsp;-->
 
 <!--[![Top Langs](https://github-readme-stats-cbk1-git-master-angel-721.vercel.app/api/top-langs/?username=angel-721&count_private=false&langs_count=10&hide_progress=true&theme=omni)](https://github.com/angel-721)-->
----
+<!-----
 #### Some Fun Repos:
 [![Readme Card](https://github-readme-stats-cbk1-git-master-angel-721.vercel.app/api/pin/?username=angel-721&repo=tweepy-media-bot&theme=omni)](https://github.com/angel-721/tweepy-media-bot)
 &nbsp;
 [![Readme Card](https://github-readme-stats-cbk1-git-master-angel-721.vercel.app/api/pin/?username=angel-721&repo=UFP&theme=omni)](https://github.com/angel-721/UFP)
 ---
+-->
 ### Other ways to find/reach me 📫: 
 <!-- Icons from https://icons8.com -->
 [![linkedin](./imgs/linkedin-light.svg)](https://www.linkedin.com/in/angel-velasquez-569102184/#gh-light-mode-only)
