@@ -12,7 +12,7 @@
 
 <!--[![Angel's GitHub Stats](https://github-readme-stats-cbk1-git-master-angel-721.vercel.app/api?username=angel-721&count_private=false&hide=stars&show_icons=true&theme=omni)](https://github.com/angel-721)&nbsp; &nbsp;-->
 
-<!--[![Top Langs](https://github-readme-stats-cbk1-git-master-angel-721.vercel.app/api/top-langs/?username=angel-721&count_private=false&langs_count=10&hide_progress=true&theme=omni)](https://github.com/angel-721)-->
+[![Top Langs](https://github-readme-stats-cbk1-git-master-angel-721.vercel.app/api/top-langs/?username=angel-721&count_private=false&langs_count=10&hide_progress=true&theme=omni)](https://github.com/angel-721)
 <!-----
 #### Some Fun Repos:
 [![Readme Card](https://github-readme-stats-cbk1-git-master-angel-721.vercel.app/api/pin/?username=angel-721&repo=tweepy-media-bot&theme=omni)](https://github.com/angel-721/tweepy-media-bot)
