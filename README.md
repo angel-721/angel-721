@@ -33,7 +33,6 @@
 
 
 
-<!-- SET UP EMAIL LATER[![linkedin](./imgs/linkedin-dark.svg)](mailto:angelvelasquez2002@gmail.com/#gh-dark-mode-only)-->
 
 <!--
 **angel-721/angel-721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
