@@ -10,16 +10,9 @@
 
 
 
-<!--[![Angel's GitHub Stats](https://github-readme-stats-cbk1-git-master-angel-721.vercel.app/api?username=angel-721&count_private=false&hide=stars&show_icons=true&theme=omni)](https://github.com/angel-721)&nbsp; &nbsp;-->
+[![Angel's GitHub Stats](https://github-readme-stats-cbk1-git-master-angel-721.vercel.app/api?username=angel-721&count_private=true&show_icons=true&theme=omni&rank_icon=github)](https://github.com/angel-721)&nbsp; &nbsp;
+[![Top Langs](https://github-readme-stats-cbk1-git-master-angel-721.vercel.app/api/top-langs/?username=angel-721&count_private=false&langs_count=8&layout=compact&theme=omni)](https://github.com/angel-721)
 
-[![Top Langs](https://github-readme-stats-cbk1-git-master-angel-721.vercel.app/api/top-langs/?username=angel-721&count_private=false&langs_count=10&hide_progress=true&theme=omni)](https://github.com/angel-721)
-<!-----
-#### Some Fun Repos:
-[![Readme Card](https://github-readme-stats-cbk1-git-master-angel-721.vercel.app/api/pin/?username=angel-721&repo=tweepy-media-bot&theme=omni)](https://github.com/angel-721/tweepy-media-bot)
-&nbsp;
-[![Readme Card](https://github-readme-stats-cbk1-git-master-angel-721.vercel.app/api/pin/?username=angel-721&repo=UFP&theme=omni)](https://github.com/angel-721/UFP)
----
--->
 ### Other ways to find/reach me 📫: 
 <!-- Icons from https://icons8.com -->
 [![linkedin](./imgs/linkedin-light.svg)](https://www.linkedin.com/in/angel-velasquez-569102184/#gh-light-mode-only)
@@ -28,23 +21,6 @@
 [![email](./imgs/email-dark.png)](mailto:angelvelasquez2002@gmail.com/#gh-dark-mode-only)
 [![email](./imgs/email-light.png)](mailto:angelvelasquez2002@gmail.com/#gh-light-mode-only)
 <!-- Icons from  https://icons8.com -->
+
 ### Learn more about me [here!](https://angel-721.github.io/)
 
-
-
-
-
-<!--
-**angel-721/angel-721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
