@@ -1,7 +1,7 @@
 # Hello! 👋
 
 - I'm a 4th year Software Engineering student at Utah Tech University
-- My next step hopefully is graduate school
+- My next step is graduate school at Lehigh University
 - I currently develop virtual reality classroom experiences for Utah Tech Online
 - I have a strong interest in data science and game development
 
