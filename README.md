@@ -1,10 +1,8 @@
 # Hello! 👋
 
-- I'm a 4th year Software Engineering student at Utah Tech University
-- My next step is graduate school at Lehigh University
-- I currently develop virtual reality classroom experiences for Utah Tech Online
-- I have a strong interest in data science and game development
-
+- B.S in Software Engineering from Utah Tech University
+- Upcoming M.Eng. Computer Science at Lehigh University
+- develops virtual reality classroom experiences for Utah Tech Online
 <!--- Don't be surprised if you see many repos with a martial arts theme-->
 
 
