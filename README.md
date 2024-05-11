@@ -1,8 +1,8 @@
 # Hello! 👋
 
-- B.S in Software Engineering from Utah Tech University
-- Upcoming M.Eng. Computer Science at Lehigh University
-- develops virtual reality classroom experiences for Utah Tech Online
+- B.S. in Software Engineering from Utah Tech University
+- First year M.Eng. Computer Science student at Lehigh University
+- Develops virtual reality classroom experiences for Utah Tech Online
 <!--- Don't be surprised if you see many repos with a martial arts theme-->
 
 
