@@ -20,5 +20,4 @@
 [![email](./imgs/email-light.png)](mailto:angelvelasquez2002@gmail.com/#gh-light-mode-only)
 <!-- Icons from  https://icons8.com -->
 
-### Learn more about me [here!](https://angel-721.github.io/)
 
