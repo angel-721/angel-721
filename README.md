@@ -9,7 +9,7 @@
 
 
 [![Angel's GitHub Stats](https://github-readme-stats-cbk1-git-master-angel-721.vercel.app/api?username=angel-721&count_private=true&show_icons=true&theme=omni&rank_icon=github)](https://github.com/angel-721)&nbsp; &nbsp;
-[![Top Langs](https://github-readme-stats-cbk1-git-master-angel-721.vercel.app/api/top-langs/?username=angel-721&count_private=false&langs_count=8&layout=compact&theme=omni)](https://github.com/angel-721)
+[![Top Langs](https://github-readme-stats-cbk1-git-master-angel-721.vercel.app/api/top-langs/?username=angel-721&count_private=false&langs_count=8&layout=compact&theme=omni&hide_progress=true)](https://github.com/angel-721)
 
 ### Other ways to find/reach me 📫: 
 <!-- Icons from https://icons8.com -->
