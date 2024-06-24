@@ -1,8 +1,7 @@
 # Hello! 👋
 
-- B.S. in Software Engineering from Utah Tech University
 - First year M.Eng. Computer Science student at Lehigh University
-- Develops virtual reality classroom experiences for Utah Tech Online
+- I develop virtual reality classroom experiences for Utah Tech Online and tech Full Stack Development
 - Learn more about me [here](https://www.amvelasquez.dev/)!
 
 
