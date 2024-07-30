@@ -1,7 +1,6 @@
 # Hello! 👋
 
 - First year M.Eng. Computer Science student at Lehigh University
-- I develop virtual reality classroom experiences for Utah Tech Online and teach Full Stack Development
 - Learn more about me [here](https://www.amvelasquez.dev/)!
 
 
