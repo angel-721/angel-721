@@ -1,6 +1,6 @@
 # Hello! 👋
 
-- First year M.Eng. Computer Science student at Lehigh University
+- First year gradaute Computer Science student at Lehigh University
 - Learn more about me [here](https://www.amvelasquez.dev/)!
 
 
