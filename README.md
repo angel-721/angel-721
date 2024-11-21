@@ -3,6 +3,7 @@
 - Gradaute Computer Science student at Lehigh University
 - Software engineer intern @ [Illico Genetics](https://www.ilicogenetics.com/)
 - Learn more about me [here](https://www.amvelasquez.dev/)!
+- I'm secretly living a second life 🤫
 
 
 
