@@ -1,6 +1,6 @@
 # Hello! 👋
 
-- Learn more about me [here](https://angelmvelasquez.com/)!
+Learn more about me [here](https://angelmvelasquez.com/)!
 
 
 
