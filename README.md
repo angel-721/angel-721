@@ -4,6 +4,5 @@
 [![gitlab](./imgs/gitlab.svg)](https://gitlab.com/angel-721)
 [![email](./imgs/email-dark.png)](mailto:angelvelasquez2002@gmail.com/#gh-dark-mode-only)
 [![email](./imgs/email-light.png)](mailto:angelvelasquez2002@gmail.com/#gh-light-mode-only)
-<!-- Icons from  https://icons8.com -->
 
 
